@@ -1,0 +1,6 @@
+streamlit as st
+openai
+subprocess
+json
+os
+pandas 
